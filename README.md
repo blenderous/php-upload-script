@@ -1,6 +1,6 @@
 # Handling file upload with PHP
 
-This is a simple page with a form to upload a file, like an image or video.
+There is a simple page to upload a file, like an image or video.
 
 The PHP script included `upload.php`, takes the uploaded file, checks if the file already exists and then saves it in the uploads folder.
 
